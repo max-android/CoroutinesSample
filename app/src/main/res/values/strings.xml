@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CoroutinesSample</string>
+    <string name="second_sample">start second sample</string>
+    <string name="show_towns">show towns</string>
+</resources>
